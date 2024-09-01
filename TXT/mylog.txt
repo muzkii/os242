@@ -12,3 +12,6 @@ ZCZC W00 120 L81 Listening: Radio, Music, etc
 ZCZC W00 5 L41 TXT/mylog.txt related
 ZCZC W00 30 L73 Gaming including Board Games.
 ZCZC W00 30 L05 Quiz related including studying
+ZCZC W00 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 100 L05 Quiz related including studying
+ZCZC W00 150 L01 SCELE/Discord related
