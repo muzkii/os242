@@ -1,4 +1,4 @@
 # os242
-* <https://os.vlsm.org/> -- OS242
-* <https://github.com/muzkii> -- My GitHub, with the name muzkii
-* <https://github.com/muzkii/os242/blob/master/TXT/mylog.txt> -- mylog.txt link
+[MY LOG] (https://github.com/muzkii/os242/blob/master/TXT/mylog.txt)
+[MY GitHub] (https://github.com/muzkii)
+[OS LINK] (https://muzkii.github.io/os242/LINKS/)
