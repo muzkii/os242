@@ -17,3 +17,10 @@ ZCZC W00 100 L05 Quiz related including studying
 ZCZC W00 150 L01 Scele/Discord related
 ZCZC W01 180 L03 GitHub related
 ZCZC W01 180 L11 Assignment #01
+ZCZC W01 300 L81 Listening to Spotify
+ZCZC W01 30 L05 Quiz on Friday
+ZCZC W01 180 L70 Working on TBA Assignment
+ZCZC W01 5 L41 Editing TXT/mylog.txt
+ZCZC W01 30 L11 Adding index.md and links.md
+ZCZC W01 120 L02 OS Study on Monday
+ZCZC W01 20 L03 GitHub Push Pull Commit 
