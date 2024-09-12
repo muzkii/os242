@@ -24,3 +24,11 @@ ZCZC W01 5 L41 Editing TXT/mylog.txt
 ZCZC W01 30 L11 Adding index.md and links.md
 ZCZC W01 120 L02 OS Study on Monday
 ZCZC W01 20 L03 GitHub Push Pull Commit 
+ZCZC W02 20 L03 GitHub related
+ZCZC W02 200 L12 Assignment #02
+ZCZC W02 100 L02 CLASSROOM of Operating System
+ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 100 L01 Scele related
+ZCZC W02 210 L81 Listening to spotify
+ZCZC W02 200 L70 Working on PBD and StatProb
+ZCZC W02 60 L12 Editing links.md
