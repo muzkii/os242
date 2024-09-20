@@ -36,3 +36,11 @@ ZCZC W02 100 Quiz + Studying
 ZCZC W02 5 L41 Editing TXT/mylog.txt
 ZCZC W02 120 L73 Gaming including board games
 ZCZC W02 180 L70 Studying for other courses
+ZCZC W03 100 L02 CLASS of Operating System
+ZCZC W03 300 L09 Assignment in general from 00 to finishing
+ZCZC W03 10 L03 GitHub and git related
+ZCZC W03 120 L05 Studying for quiz
+ZCZC W03 30 L31 Backup my virtualbox
+ZCZC W03 60 L40 TXT/related based on finishing
+ZCZC W03 150 L81 Listening to Spotify
+ZCZC W03 20 L24 Doign Scripting assignments
