@@ -9,5 +9,7 @@ permalink: LINKS/
 * <https://youtu.be/U_P23SqJaDc> --- Cyber Security Full Course for Beginners (From Weekly Assignment 2)
 * <https://rms46.vlsm.org/2/198.pdf> --- Midterm Problems
 * <https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O> --- Operating Systems Youtube Playlist
+* <https://www.youtube.com/watch?v=yK1uBHPdp30> --- Operating System Full Course for Beginners
+* <https://www.youtube.com/watch?v=Aa7tKMmeFZI> --- How to use SCP Command (Linux Crash Course)
 <br>
 <hr>
