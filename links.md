@@ -11,5 +11,7 @@ permalink: LINKS/
 * <https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O> --- Operating Systems Youtube Playlist
 * <https://www.youtube.com/watch?v=yK1uBHPdp30> --- Operating System Full Course for Beginners
 * <https://www.youtube.com/watch?v=Aa7tKMmeFZI> --- How to use SCP Command (Linux Crash Course)
+* <https://www.youtube.com/watch?v=zvDCvjdeHPE&list=PLYtFZyi6XjzdpaRvrM3nlhyMgxsEmkF8f> --- OS Lecture Playlist
+* <https://www.youtube.com/watch?v=gjXJQv-NGYM> --- OS Rapid Revision
 <br>
 <hr>

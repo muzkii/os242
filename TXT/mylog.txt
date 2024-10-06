@@ -56,3 +56,13 @@ ZCZC W04 5 L41 Editing TXT/mylog.txt
 ZCZC W04 240 L09 Assignment in general from 00 to finishing on Weekly Assignment 4
 ZCZC W04 240 L70 Working on PBD Assignment
 ZCZC W04 45 L06 Looking for materials and references
+ZCZC W05 210 L02 OS Study Online
+ZCZC W05 300 L81 Listening to Spotify
+ZCZC W05 150 L05 Quiz + Studying for quiz
+ZCZC W05 210 L70 Studying for Automata Quiz
+ZCZC W05 150 L70 Working on PBD Assignment
+ZCZC W05 210 L70 Working on Database Assignment
+ZCZC W05 10 L41 Editing TXT/mylog.txt
+ZCZC W05 300 L09 Assignment in general from 00 to finishing on Weekly Assignment 5
+ZCZC W05 240 L88 Workout going to the gym
+ZCZC W05 20 L12 Editing links.md
