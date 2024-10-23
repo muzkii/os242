@@ -13,5 +13,7 @@ permalink: LINKS/
 * <https://www.youtube.com/watch?v=Aa7tKMmeFZI> --- How to use SCP Command (Linux Crash Course)
 * <https://www.youtube.com/watch?v=zvDCvjdeHPE&list=PLYtFZyi6XjzdpaRvrM3nlhyMgxsEmkF8f> --- OS Lecture Playlist
 * <https://www.youtube.com/watch?v=gjXJQv-NGYM> --- OS Rapid Revision
+* <https://www.youtube.com/watch?v=xKOhIJQi84w> --- How to use Docusaurus COMPLETE GUIDE
+* <https://www.youtube.com/watch?v=cex9XrZCU14> --- How the fork() function works in C
 <br>
 <hr>

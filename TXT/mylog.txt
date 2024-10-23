@@ -66,3 +66,9 @@ ZCZC W05 10 L41 Editing TXT/mylog.txt
 ZCZC W05 300 L09 Assignment in general from 00 to finishing on Weekly Assignment 5
 ZCZC W05 240 L88 Workout going to the gym
 ZCZC W05 20 L12 Editing links.md
+ZCZC W06 100 L02 OS Study Class on Wednesday
+ZCZC W06 180 L81 Listening to Spotify
+ZCZC W06 10 L41 Editing TXT/mylog.txt
+ZCZC W06 10 L12 Editing links.md
+ZCZC W06 360 L09 Assignment in general from 00 to finishing on Weekly Assignment 6
+ZCZC W06 180 L70 Working on PBD Group Assignment
