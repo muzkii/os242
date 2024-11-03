@@ -72,3 +72,10 @@ ZCZC W06 10 L41 Editing TXT/mylog.txt
 ZCZC W06 10 L12 Editing links.md
 ZCZC W06 360 L09 Assignment in general from 00 to finishing on Weekly Assignment 6
 ZCZC W06 180 L70 Working on PBD Group Assignment
+ZCZC W07 450 L09 Assignment from 00 to finishing to working on Pop Quiz 
+ZCZC W07 300 L81 Listening to Spotify
+ZCZC W07 30 L06 Searching for references on Docusaurus
+ZCZC W07 10 L03 Git Pull Push Commit Add
+ZCZC W07 210 L73 Gaming playing Fifa
+ZCZC W07 350 L88 Workout, Run, Gym
+ZCZC W07 450 L70 Working on Database, Automata, and PBD

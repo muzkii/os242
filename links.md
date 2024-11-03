@@ -15,5 +15,7 @@ permalink: LINKS/
 * <https://www.youtube.com/watch?v=gjXJQv-NGYM> --- OS Rapid Revision
 * <https://www.youtube.com/watch?v=xKOhIJQi84w> --- How to use Docusaurus COMPLETE GUIDE
 * <https://www.youtube.com/watch?v=cex9XrZCU14> --- How the fork() function works in C
+* <https://www.youtube.com/watch?v=qdkxXygc3rE> --- OS Memory Manager
+* <https://www.youtube.com/watch?v=xVSPv-9x3gk> --- Fork() System Call Tutorial
 <br>
 <hr>
