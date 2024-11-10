@@ -17,5 +17,7 @@ permalink: LINKS/
 * <https://www.youtube.com/watch?v=cex9XrZCU14> --- How the fork() function works in C
 * <https://www.youtube.com/watch?v=qdkxXygc3rE> --- OS Memory Manager
 * <https://www.youtube.com/watch?v=xVSPv-9x3gk> --- Fork() System Call Tutorial
+* <https://www.linuxfromscratch.org/lfs/view/12.2/> --- Linux From Scratch Book
+* <https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3> --- LFS Youtube Playlist
 <br>
 <hr>

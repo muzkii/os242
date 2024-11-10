@@ -79,3 +79,11 @@ ZCZC W07 10 L03 Git Pull Push Commit Add
 ZCZC W07 210 L73 Gaming playing Fifa
 ZCZC W07 350 L88 Workout, Run, Gym
 ZCZC W07 450 L70 Working on Database, Automata, and PBD
+ZCZC W08 450 L09 Assignment from 00 to finishing to working on Pop Quiz
+ZCZC W08 10 L12 Editing links.md
+ZCZC W08 10 L41 Editing TXT/mylog.txt
+ZCZC W08 360 L81 Listening to Spotify
+ZCZC W08 270 L88 Workout, Run, Gym
+ZCZC W08 700 L70 Working on Automata, PBD, and Database
+ZCZC W08 240 L02 OS Study Class
+ZCZC W08 15 L03 Git Pull Push Commit Add
